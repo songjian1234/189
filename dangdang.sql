@@ -1,0 +1,1 @@
+sectec * from dangdang
